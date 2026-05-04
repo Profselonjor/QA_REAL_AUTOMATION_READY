@@ -1,3 +1,5 @@
+🚀 QA Automation Engineer Portfolio (Real Project Simulation)
+
 ![CI/CD](https://img.shields.io/badge/CI-CD%20Pipeline-green)
 ![Automation](https://img.shields.io/badge/API%20Testing-Newman-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
@@ -43,15 +45,25 @@ Automation runs automatically on every push and generates HTML reports available
 ## 💡 Why This Project
 Healthcare systems require high reliability and accuracy. This project simulates QA processes to ensure system stability and prevent critical failures.
 
-## 📸 Screenshots
-(Add screenshots of GitHub Actions & Newman report here)
-## 📸 Screenshots
+## 📸 Automation Proof
 
-### GitHub Actions
+### CI/CD Pipeline (GitHub Actions)
 ![GitHub Actions](screenshots/github-actions.png)
 
-### Newman Report
+### API Automation Report (Newman)
 ![Newman Report](screenshots/newman-report.png)
+
+## 💼 Business Impact
+- Ensured API reliability through automated testing
+- Reduced manual testing effort using CI/CD automation
+- Improved defect detection before deployment
+- Simulated production-level QA workflow
+
+## ⚙️ How It Works
+- Code push triggers GitHub Actions
+- Newman executes API test collection
+- Test results are generated in HTML format
+- Reports are stored and accessible for review
 
 ## 👨‍💻 Author
 **Andhika P. Indrawangsa**  
