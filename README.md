@@ -1,14 +1,12 @@
 🚀 QA Automation Engineer Portfolio (Real Project Simulation)
-# QA Automation Project - Hospital Information System (SIMRS)
+This project demonstrates a production-level QA automation workflow using API testing and CI/CD integration.
 
+# QA Automation Project - Hospital Information System (SIMRS)
 Keywords: QA Automation, API Testing, Postman, Newman, GitHub Actions, CI/CD, Software Testing
 
 ![CI/CD](https://img.shields.io/badge/CI-CD%20Pipeline-green)
 ![Automation](https://img.shields.io/badge/API%20Testing-Newman-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-
-# 🏥 QA Automation Portfolio - Hospital Information System (SIMRS)
-This project demonstrates a production-level QA automation workflow using API testing and CI/CD integration.
 
 ## 📌 Overview
 This project demonstrates end-to-end Quality Assurance (QA) automation for a Hospital Information System (SIMRS), simulating real-world testing workflows used in modern software development.
@@ -55,7 +53,7 @@ Healthcare systems require high reliability and accuracy. This project simulates
 - Detected issues before production deployment
 - Simulated real-world QA workflow in healthcare system
 
-## 📸 Automation Proof
+ ## 📸 Automation Proof
 
 ### CI/CD Pipeline
 ![GitHub Actions](screenshots/github-actions.png)
@@ -69,11 +67,11 @@ Healthcare systems require high reliability and accuracy. This project simulates
 - Improved defect detection before deployment
 - Simulated production-level QA workflow
 
-## ⚙️ How It Works
-- Code push triggers GitHub Actions
-- Newman executes API test collection
-- Test results are generated in HTML format
-- Reports are stored and accessible for review
+  ## ⚙️ How It Works
+- Push triggers GitHub Actions
+- Newman executes API tests
+- HTML report is generated automatically
+- Report uploaded as artifact
 
 ## 🔍 Search Keywords
 QA Automation, API Testing, Postman, Newman, CI/CD, GitHub Actions, SIMRS
