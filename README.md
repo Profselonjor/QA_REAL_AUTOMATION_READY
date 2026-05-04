@@ -75,6 +75,9 @@ Healthcare systems require high reliability and accuracy. This project simulates
 - Test results are generated in HTML format
 - Reports are stored and accessible for review
 
+## 🔍 Search Keywords
+QA Automation, API Testing, Postman, Newman, CI/CD, GitHub Actions, SIMRS
+
 ## 👨‍💻 Author
 **Andhika P. Indrawangsa**  
 QA Engineer | Open to Malaysia & Singapore Opportunities
