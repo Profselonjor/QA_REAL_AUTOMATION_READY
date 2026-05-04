@@ -45,12 +45,18 @@ Automation runs automatically on every push and generates HTML reports available
 ## 💡 Why This Project
 Healthcare systems require high reliability and accuracy. This project simulates QA processes to ensure system stability and prevent critical failures.
 
+## 💼 Business Impact
+- Improved API reliability through automation testing
+- Reduced manual testing effort using CI/CD pipeline
+- Ensured early bug detection before production
+- Simulated real QA workflow in healthcare system
+
 ## 📸 Automation Proof
 
-### CI/CD Pipeline (GitHub Actions)
+### CI/CD Pipeline
 ![GitHub Actions](screenshots/github-actions.png)
 
-### API Automation Report (Newman)
+### Automation Report
 ![Newman Report](screenshots/newman-report.png)
 
 ## 💼 Business Impact
