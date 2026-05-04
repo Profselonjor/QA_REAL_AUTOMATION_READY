@@ -45,6 +45,13 @@ Healthcare systems require high reliability and accuracy. This project simulates
 
 ## 📸 Screenshots
 (Add screenshots of GitHub Actions & Newman report here)
+## 📸 Screenshots
+
+### GitHub Actions
+![GitHub Actions](screenshots/github-actions.png)
+
+### Newman Report
+![Newman Report](screenshots/newman-report.png)
 
 ## 👨‍💻 Author
 **Andhika P. Indrawangsa**  
