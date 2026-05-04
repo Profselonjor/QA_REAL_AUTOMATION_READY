@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 # 🏥 QA Automation Portfolio - Hospital Information System (SIMRS)
-This project demonstrates a production-like QA automation workflow using CI/CD and API testing tools.
+This project demonstrates a production-level QA automation workflow using API testing and CI/CD integration.
 
 ## 📌 Overview
 This project demonstrates end-to-end Quality Assurance (QA) automation for a Hospital Information System (SIMRS), simulating real-world testing workflows used in modern software development.
@@ -47,9 +47,9 @@ Automation runs automatically on every push and generates HTML reports available
 Healthcare systems require high reliability and accuracy. This project simulates QA processes to ensure system stability and prevent critical failures.
 
 ## 💼 Business Impact
-- Increased API reliability through automated testing
+- Improved API reliability through automation testing
 - Reduced manual QA effort using CI/CD pipeline
-- Detected potential issues before production
+- Detected issues before production deployment
 - Simulated real-world QA workflow in healthcare system
 
 ## 📸 Automation Proof
