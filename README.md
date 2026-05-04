@@ -1,7 +1,6 @@
-🚀 QA Automation Engineer Portfolio (Real Project Simulation)
+# QA Automation Project - Hospital Information System (SIMRS)
 This project demonstrates a production-level QA automation workflow using API testing and CI/CD integration.
 
-# QA Automation Project - Hospital Information System (SIMRS)
 Keywords: QA Automation, API Testing, Postman, Newman, GitHub Actions, CI/CD, Software Testing
 
 ![CI/CD](https://img.shields.io/badge/CI-CD%20Pipeline-green)
